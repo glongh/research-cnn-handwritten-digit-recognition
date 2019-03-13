@@ -5,6 +5,7 @@
 
 # Training resources
 F_MNIST_data/
+MNIST_data/
 
 # User-specific files
 *.suo
